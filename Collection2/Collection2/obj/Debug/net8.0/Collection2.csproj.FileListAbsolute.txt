@@ -1,0 +1,15 @@
+C:\Users\Darya\Desktop\Ayhan13\Collection2\Collection2\bin\Debug\net8.0\Collection2.exe
+C:\Users\Darya\Desktop\Ayhan13\Collection2\Collection2\bin\Debug\net8.0\Collection2.deps.json
+C:\Users\Darya\Desktop\Ayhan13\Collection2\Collection2\bin\Debug\net8.0\Collection2.runtimeconfig.json
+C:\Users\Darya\Desktop\Ayhan13\Collection2\Collection2\bin\Debug\net8.0\Collection2.dll
+C:\Users\Darya\Desktop\Ayhan13\Collection2\Collection2\bin\Debug\net8.0\Collection2.pdb
+C:\Users\Darya\Desktop\Ayhan13\Collection2\Collection2\obj\Debug\net8.0\Collection2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Desktop\Ayhan13\Collection2\Collection2\obj\Debug\net8.0\Collection2.AssemblyInfoInputs.cache
+C:\Users\Darya\Desktop\Ayhan13\Collection2\Collection2\obj\Debug\net8.0\Collection2.AssemblyInfo.cs
+C:\Users\Darya\Desktop\Ayhan13\Collection2\Collection2\obj\Debug\net8.0\Collection2.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Desktop\Ayhan13\Collection2\Collection2\obj\Debug\net8.0\Collection2.sourcelink.json
+C:\Users\Darya\Desktop\Ayhan13\Collection2\Collection2\obj\Debug\net8.0\Collection2.dll
+C:\Users\Darya\Desktop\Ayhan13\Collection2\Collection2\obj\Debug\net8.0\refint\Collection2.dll
+C:\Users\Darya\Desktop\Ayhan13\Collection2\Collection2\obj\Debug\net8.0\Collection2.pdb
+C:\Users\Darya\Desktop\Ayhan13\Collection2\Collection2\obj\Debug\net8.0\Collection2.genruntimeconfig.cache
+C:\Users\Darya\Desktop\Ayhan13\Collection2\Collection2\obj\Debug\net8.0\ref\Collection2.dll
